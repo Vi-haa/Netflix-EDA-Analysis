@@ -18,5 +18,5 @@ This project explores the Netflix Titles dataset using Python.
 
 ## 🔗 Project Links
 
-- 🌐 [View Notebook in Google Colab]([https://colab.research.google.com/drive/1941DramiiU45UUguh5j1ZxPrBSsDRLrg?usp=sharing](https://colab.research.google.com/drive/1941DramiiU45UUguh5j1ZxPrBSsDRLrg?usp=sharing ) 
+- 🌐 [View Notebook in Google Colab](https://colab.research.google.com/drive/1941DramiiU45UUguh5j1ZxPrBSsDRLrg?usp=sharing](https://colab.research.google.com/drive/1941DramiiU45UUguh5j1ZxPrBSsDRLrg?usp=sharing ) 
 - 💼 [Connect with Me on LinkedIn](www.linkedin.com/in/viha-hibare-b081992b6) 
