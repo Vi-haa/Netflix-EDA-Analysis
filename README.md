@@ -47,7 +47,7 @@ The dataset used is [Netflix Titles on Kaggle](https://www.kaggle.com/shivamb/ne
 ![Countries](./top-countries.png)
 
 ### ☁️ WordCloud
-![WordCloud](./wordcloud.png)
+![WordCloud](./wordcloud.png.jpg)
 
 ### ⭐ Rating Distribution
 ![Ratings](./ratings.png)
