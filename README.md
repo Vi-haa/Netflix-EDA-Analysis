@@ -38,6 +38,25 @@ The dataset used is [Netflix Titles on Kaggle](https://www.kaggle.com/shivamb/ne
 
 ---
 
+- ## 📸 Visualizations
+
+### 📊 Content Type Distribution
+![Type](./netflix-type.png)
+
+### 🌍 Top 10 Countries
+![Countries](./top-countries.png)
+
+### ☁️ WordCloud
+![WordCloud](./wordcloud.png)
+
+### ⭐ Rating Distribution
+![Ratings](./ratings.png)
+
+### 📈 Year-wise Trends
+![Trends](./trends.png)
+
+---
+
 ## 📌 Tools Used
 
 - Python 🐍
