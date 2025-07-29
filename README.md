@@ -34,4 +34,25 @@ The dataset used is [Netflix Titles on Kaggle](https://www.kaggle.com/shivamb/ne
 ## 📎 Quick Links
 
 - ▶️ **[View Notebook on Google Colab](https://colab.research.google.com/drive/1941DramiiU45UUguh5j1ZxPrBSsDRLrg?usp=sharing)**
-- 🛠 **[View Cod]()**
+- 🛠 **[View Code on GitHub](https://github.com/Vi-haa/Netflix-EDA-Analysis)**
+
+---
+
+## 📌 Tools Used
+
+- Python 🐍
+- pandas
+- matplotlib
+- seaborn
+- WordCloud
+- Google Colab
+- Git & GitHub
+
+---
+
+## 📬 Contact
+
+If you liked this project or want to connect:
+
+- 📧 vihahibare04@gmail.com 
+- 🔗 [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/viha-hibare-b081992b6/)) 
