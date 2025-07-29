@@ -55,4 +55,4 @@ The dataset used is [Netflix Titles on Kaggle](https://www.kaggle.com/shivamb/ne
 If you liked this project or want to connect:
 
 - 📧 vihahibare04@gmail.com 
-- 🔗 [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/viha-hibare-b081992b6/)) 
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/viha-hibare-b081992b6/)
