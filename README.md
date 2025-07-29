@@ -1,22 +1,37 @@
-# Netflix-EDA-Analysis
-Exploratory Data Analysis on Netflix Titles dataset using Python, Pandas, and Matplotlib.
-# 📊 Netflix EDA Project
+# 📊 Netflix Titles – Exploratory Data Analysis
 
-This project explores the Netflix Titles dataset using Python.
+This project performs a detailed exploratory data analysis (EDA) on the Netflix dataset, which includes information about over 7,000 movies and TV shows available on the platform.
 
-## 🔧 Tools Used:
-- Python
-- Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook (Colab)
+The goal is to uncover trends, clean the data, and visualize insights that reveal how Netflix has evolved its content strategy over the years.
 
-## 📈 Key Insights:
-- Most content on Netflix is Movies
-- Highest content comes from the US and India
-- Top genres include Drama and Comedies
-- Peak title addition was in 2019
+---
 
-## 🔗 Project Links
+## 📁 Dataset Source
+The dataset used is [Netflix Titles on Kaggle](https://www.kaggle.com/shivamb/netflix-shows).
 
-- 🌐 [View Notebook in Google Colab](https://colab.research.google.com/drive/1941DramiiU45UUguh5j1ZxPrBSsDRLrg?usp=sharing](https://colab.research.google.com/drive/1941DramiiU45UUguh5j1ZxPrBSsDRLrg?usp=sharing ) 
-- 💼 [Connect with Me on LinkedIn](www.linkedin.com/in/viha-hibare-b081992b6) 
+---
+
+## 🚀 What I Did
+
+- Cleaned and preprocessed the dataset using **pandas**
+- Handled missing values and extracted date-based features
+- Created visualizations using **seaborn** and **matplotlib**
+- Generated a **WordCloud** of frequently occurring words in titles
+- Identified patterns across **release years, ratings, content types, and countries**
+
+---
+
+## 📈 Visual Highlights
+
+- 📊 Distribution of Movies vs TV Shows  
+- 🌍 Top Countries with Most Netflix Content  
+- ⏳ Trend of Content Added Over the Years  
+- 🎬 Most Common Ratings  
+- ☁️ WordCloud of Title Keywords  
+
+---
+
+## 📎 Quick Links
+
+- ▶️ **[View Notebook on Google Colab](https://colab.research.google.com/drive/1941DramiiU45UUguh5j1ZxPrBSsDRLrg?usp=sharing)**
+- 🛠 **[View Cod]()**
